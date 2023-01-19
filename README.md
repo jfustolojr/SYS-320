@@ -3,6 +3,8 @@
 
 The directory structure is in order of weekly assignments completed, but each assignment can be found in the table below:
 
-| Sample Table Info | Each assignment will be listed here, along with some description |
+| Sample Table Info | 
+| --- |
+|Each assignment will be listed here, along with some description |
 
 The wiki may also include some tech journal entries if I explore topics I have not encountered before.
